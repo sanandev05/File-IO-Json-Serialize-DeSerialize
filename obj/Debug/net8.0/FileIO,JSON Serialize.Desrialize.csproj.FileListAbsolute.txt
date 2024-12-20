@@ -1,0 +1,14 @@
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\bin\Debug\net8.0\FileIO,JSON Serialize.Desrialize.exe
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\bin\Debug\net8.0\FileIO,JSON Serialize.Desrialize.deps.json
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\bin\Debug\net8.0\FileIO,JSON Serialize.Desrialize.runtimeconfig.json
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\bin\Debug\net8.0\FileIO,JSON Serialize.Desrialize.dll
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\bin\Debug\net8.0\FileIO,JSON Serialize.Desrialize.pdb
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\obj\Debug\net8.0\FileIO,JSON Serialize.Desrialize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\obj\Debug\net8.0\FileIO,JSON Serialize.Desrialize.AssemblyInfoInputs.cache
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\obj\Debug\net8.0\FileIO,JSON Serialize.Desrialize.AssemblyInfo.cs
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\obj\Debug\net8.0\FileIO,JSON Serialize.Desrialize.csproj.CoreCompileInputs.cache
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\obj\Debug\net8.0\FileIO,JSON Serialize.Desrialize.dll
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\obj\Debug\net8.0\refint\FileIO,JSON Serialize.Desrialize.dll
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\obj\Debug\net8.0\FileIO,JSON Serialize.Desrialize.pdb
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\obj\Debug\net8.0\FileIO,JSON Serialize.Desrialize.genruntimeconfig.cache
+C:\Users\Icomp\Desktop\Tasks\FileIO,JSON Serialize.Desrialize\obj\Debug\net8.0\ref\FileIO,JSON Serialize.Desrialize.dll
